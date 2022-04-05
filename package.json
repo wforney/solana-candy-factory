@@ -57,7 +57,7 @@
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
     "postcss": "^8.3.9",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "strapi-sdk-javascript": "^0.3.3",
     "tailwindcss": "^2.2.17",
     "typescript": "4.4.4"
